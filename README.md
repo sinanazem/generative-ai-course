@@ -1,2 +1,2 @@
-# generative-ai-course
+# Generative AI
 Generative AI Course
